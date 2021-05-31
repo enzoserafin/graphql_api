@@ -72,14 +72,13 @@ Será aberta uma aba no navegador no endereço http://localhost:4000/
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Mobile**  ([React Native](https://reactnative.dev/))
+#### **Server**  ([GraphQL](https://graphql.org/))
 
--   **[GraphQL](https://graphql.org/)**
 -   **[Apollo-Server](https://www.apollographql.com/docs/apollo-server/)**
 
-> Veja o arquivo  [package.json](https://github.com/enzoserafin/graphql/blob/master/package.json)
+> Veja o arquivo  [package.json](https://github.com/enzoserafin/graphql_api/blob/master/package.json)
 
-#### [](https://github.com/enzoserafin/graphql)**Utilitários**
+#### [](https://github.com/enzoserafin/graphql_api)**Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 
