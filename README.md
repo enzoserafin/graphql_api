@@ -34,7 +34,7 @@ Este repositório é um projeto de um estudo da tecnolgia GraphQl, com uma estru
 
 ## ⚙️ Funcionalidades
 
-- [x] CRUD de usuaários:
+- [x] CRUD de usuários:
   - [x] CRUD de posts;
 
 ---
